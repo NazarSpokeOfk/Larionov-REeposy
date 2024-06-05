@@ -1,23 +1,30 @@
-# Larionov-REeposy
-Поправляемся пивком!
+                                                                                           # 🏔️ Gunib Mountain Exploration
 
-\\\\\\\\TheMountains.AllRightsReserved////////
+*Introduction*
 
-This about mountain...Gunib...
+- Welcome to the Gunib Mountain Exploration project! This web application is dedicated to studying and exploring Gunib Mountain in Dagestan. Users can register, log in, and manage their profiles. The profile page allows users to edit and view their information, enhancing their exploration experience.
 
-You can read about mountain Gunib, register, log in your account. You can check your profile.
+Before you begin, ensure you have the following:
 
-1. You need to download a zip file or our repository on your machine.
-2. You need to open folder which inside zip.
-3. Open app.py file in VsCode.
-4. Then press run button.
-5. Open your browser and enter localhost:5000 or just enter localhost and press tab.
-6. Our development team : Shamrin Alexander , Kuryatnikov Nazar
+Python 3.12
 
-Why was the product created? Our product was created on the demand of the customer.
+Flask
 
-What was the product created for? Our product was created to satisfy the customer. 
+SQLAlchemy
 
-How is the product better than analogs? We believe that our product gives a little knowledge to people about mountains such as Gunib.
+Installation
 
-How to help the product to develop? You can support us by writing us nice words.
+You need to download a zip file or our repository on your machine.
+
+Also you need to open folder which inside zip.
+
+Open app.py file in Visual Studio Code.
+
+Then press run button.
+
+Open your browser and enter localhost:5000 or just enter localhost and press tab.
+
+Our development team : Shamrin Alexander , Kuryatnikov Nazar
+
+
+Feel free to customize this README with additional sections or information as needed.
