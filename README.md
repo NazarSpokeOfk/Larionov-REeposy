@@ -30,3 +30,11 @@
 
 
 ### Feel free to customize this README with additional sections or information as needed.
+# We're updated our app! 🛠
+#### OUR OLD APP
+![Screenshot_1](https://github.com/NazarSpokeOfk/Larionov-REeposy/assets/167083296/f4286d18-b276-4f99-9490-d0ae40d9cc42)
+#### OUR NEW APP
+![Screenshot_2](https://github.com/NazarSpokeOfk/Larionov-REeposy/assets/167083296/dc7a2b90-523a-4fea-8f75-d8d9d56a33e6)
+
+
+
