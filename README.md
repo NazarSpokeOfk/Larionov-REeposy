@@ -30,7 +30,7 @@
 
 - **Open your browser and enter `localhost:5000` or just enter localhost and press tab.**
 
-### Feel free to customize this README with additional sections or information as needed.
+
 # We're updated our app! 🛠
 #### OUR OLD APP
 ![Screenshot_1](https://github.com/NazarSpokeOfk/Larionov-REeposy/assets/167083296/f4286d18-b276-4f99-9490-d0ae40d9cc42)
@@ -43,5 +43,13 @@ You can improve our project!
 - Go on other brench;
 - Improve our project;
 - Make commit;
-- Make merge request; 
+- Make merge request;
+
+  # OUR TEAM : MarkComb.INC
+  
+  +7-900-000-00-00
+  
+   Support : MarkComb@gmail.com
+
+  # Feel free to customize this README with additional sections or information as needed.
 
